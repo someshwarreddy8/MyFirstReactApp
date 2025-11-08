@@ -1,0 +1,12 @@
+.tabbtncontainer {
+    margin-top: 50px;
+    border: 2px solid blue;
+    padding: 5px;
+    display: flex;
+    gap: 12px;
+}
+
+.active {
+    background-color: blue;
+    color: white;
+}

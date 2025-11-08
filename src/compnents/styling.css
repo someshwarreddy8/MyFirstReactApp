@@ -1,0 +1,11 @@
+h3 {
+    color: gray;
+    font-size: 25px;
+    border: 5px solid red;
+    margin: 40px;
+    padding: 20px;
+}
+
+.container {
+    background-color: rgb(212, 15, 140);
+}

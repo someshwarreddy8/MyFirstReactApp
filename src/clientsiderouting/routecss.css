@@ -1,0 +1,12 @@
+.navsec {
+    border: 2px solid grey;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.navsec ol li {
+    display: inline-flex;
+    margin: 20px;
+    list-style-type: none;
+}
